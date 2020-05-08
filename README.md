@@ -1,6 +1,7 @@
 **Shiratech IOT BOX** - [Click here to purchase](https://www.arrow.com/en/products/srt-iot-cube-box/shiratech)
 ====================================================
-
+![IOTBOX](hardware_docs/pics/Untitled-2.jpg)<img src="hardware_docs/pics/Untitled-2.jpg" height="48" width="48">  
+------------------------
 # Overview
 ------------------------
 Shiratech Company Launches the “IOT BOX”.
@@ -79,6 +80,6 @@ Voice sensing applications
  # RESOURCES
 ------------------------
 Linaro Debian Image - [Link](https://www.shiratech-solutions.com/software/IoT_Box_Debian_v1.1.rar)  
-Quick Start Guide - [Link]()  
-Fact Sheet - [Link]()  
-Azure IoT Central via Shiratech IoTBoX Guide [Link]()
+Quick Start Guide - [Link](https://github.com/ArrowElectronics/IoTBOX/blob/master/Documents/IoT-Box_Quick_Start_Guide.pdf)  
+Fact Sheet - [Link](https://github.com/ArrowElectronics/IoTBOX/blob/master/Documents/Shiratech_IOT_BOX_CUBE_Datasheet.pdf)  
+Azure IoT Central via Shiratech IoTBoX Guide [Link](https://github.com/ArrowElectronics/IoTBOX/blob/master/Azure%20IoT%20Central%20Guide/IoTBox_Azure_Quick_Start_Guide_20.03.2020.pdf) 
