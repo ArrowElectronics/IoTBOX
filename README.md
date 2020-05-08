@@ -1,6 +1,6 @@
 **Shiratech IOT BOX** - [Click here to purchase](https://www.arrow.com/en/products/srt-iot-cube-box/shiratech)
 ====================================================
-![IOTBOX](hardware_docs/pics/Untitled-2.jpg)<img src="hardware_docs/pics/Untitled-2.jpg" height="48" width="48">  
+![IOTBOX](Documents/Image/IoTBOX.jpg)<img src="hardware_docs/pics/Untitled-2.jpg" height="48" width="48">  
 ------------------------
 # Overview
 ------------------------
