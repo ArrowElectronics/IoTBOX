@@ -43,7 +43,7 @@ IOT solutions
 Voice sensing applications
 
 ### STM32MP157 MAIN FEATURES
-**CORE
+**CORE**
  + 32-bit dual-core Arm® Cortex®-A7
 	– Up to 650 MHz (Up to 4158 CoreMark®)
 	– L1 32 Kbyte I / 32 Kbyte D for each core
@@ -52,15 +52,15 @@ Voice sensing applications
  + 32-bit Arm® Cortex®-M4 with FPU/MPU
 	– Up to 200 MHz (Up to 673 CoreMark®)
 
-**Memories
+**Memories**
  + External DDR memory – DDR3 – 64M X 32Bit (2G bit)
  + 708 Kbyte of internal SRAM: 256 KB of AXI SYSRAM + 384 KB of AHB SRAM + 64 KB of AHB SRAM in backup domain and 4 KB of SRAM in backup domain
  + NAND Flash – SLC NAND Flash Parallel 1.8V 8Gbit 1G x 8Bit 63-Pin VFBGA
 
-**SECURITY
+**SECURITY**
  + TrustZone® IPs, active tamper
  
-**BG96 MAIN FEATURES
+**BG96 MAIN FEATURES**
  + Quectel BG96 LTE CAT-M1 Modem
  + Modem speed 300Kbps DL / 375Kbps UL
  + Built in GPS
@@ -69,16 +69,16 @@ Voice sensing applications
  + Compatible with 96Boards CE and EE boards
  + I2C, UART, GPIO for modem operation
 
-**MECHANICAL
+**MECHANICAL**
  + 97mm x 97mm x14.5mm
 
-**OPERATING SYSTEM
+**OPERATING SYSTEM**
 
  + LINUX – Linaro Debian
  
  # RESOURCES
 ------------------------
-Linaro Debian Image - [Link]()
-Quick Start Guide - [Link]()
-Fact Sheet - [Link]()
+Linaro Debian Image - [Link](https://www.shiratech-solutions.com/software/IoT_Box_Debian_v1.1.rar)  
+Quick Start Guide - [Link]()  
+Fact Sheet - [Link]()  
 Azure IoT Central via Shiratech IoTBoX Guide [Link]()
